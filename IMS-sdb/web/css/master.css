@@ -1,0 +1,121 @@
+
+body { background:#330066;}
+
+
+#logo_section { width:987px;
+				height:97px;
+				margin:0 auto;
+				background:#FFFFFF;
+				}
+				
+				
+#menu_section { width:987px;
+				height:32px;
+				margin:0 auto;
+				clear:both;
+				background:#0086cb;
+
+				}
+				
+
+					
+
+#main_text_section { width:987px;
+				height:625px;
+				padding-top:7px;
+				margin:0 auto;
+				clear:both;
+				background:#FFFFFF;
+				padding-bottom:5px;
+				}
+				
+				
+.left_box { width:190px;
+				height:auto;
+				margin-left:10px;
+				background:#ddeff9;
+				
+				float:left;
+				
+				border:1px solid #cecccc;
+				}
+				
+.left_box ul { 
+						font-family:Verdana, Arial, Helvetica, sans-serif;
+						list-style:none;
+						font-size:11px;
+						margin:0;
+						padding:0;
+						background:#ddeff9;
+						
+						}
+.left_box li { 
+						border-bottom:1px solid #CCCCCC;
+						height:22px;
+						display:block;
+						margin:0;
+						padding-left:10px;
+						}
+						
+.left_box li a { color:#333333;
+						text-decoration:none;
+						
+						}
+.left_box li a:hover { color:#CC3300;
+						text-decoration:none;
+						}			
+
+.middle_box { width:447px;
+				height:auto;
+				margin-left:25px;
+				
+				float:left;
+				border:0px solid #cecccc;
+				}
+				
+.right_box { width:190px;
+				height:auto;
+				margin-right:10px;
+				
+				float:right;
+				background:#ddeff9;
+				border:1px solid #cecccc;
+				}
+				
+				
+.marquee_box { font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#333333;
+				width:170px;
+				height:150px;
+				padding:5px 15px 5px 5px;
+				}
+				
+#footer_section { width:987px;:0 auto;
+				clear:both;
+				background:#006396;
+				padding-bottom:5px;
+				font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:10px;
+				text-align:center;
+				
+				}
+				
+				
+#footer_section a { color:#FFFFFF;
+					padding:10px 10px 0 10px;
+					text-decoration:none;
+					}
+					
+					
+				height:22px;
+				padding-top:10px;
+				margin
+#footer_section a:hover { color:#CCCCCC;
+					padding:10px 10px 0 10px;
+					}
+					
+.marquee { font-family:Verdana, Arial, Helvetica, sans-serif;
+				font-size:11px;
+				color:#333333;
+				}
